@@ -1,4 +1,4 @@
-# The Home Mortgage Disclosure Act (HMDA) Data Exploration
+## The Home Mortgage Disclosure Act (HMDA) Data Exploration
 # Group Member: 
 Chengyuan Yang (cy362); Zhengyi Sui (zs359);Zihao Fu (zf223)
 # Project Description
